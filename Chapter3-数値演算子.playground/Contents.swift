@@ -12,4 +12,3 @@ print(quotient)
 let remainder = 2 * 5
 
 print(remainder)
-
